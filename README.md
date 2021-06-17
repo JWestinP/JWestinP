@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JWestinP
-- 👀 I’m interested in gaming
+- 👀 I’m interested in gaming and coding
 - 🌱 I’m currently learning c# coding
 - 💞️ I’m looking to collaborate on (nothing yet)
 - 📫 How to reach me ...
