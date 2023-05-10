@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JWestinP
-- 👀 I’m interested in gaming and coding
-- 🌱 I’m currently learning c# coding
+- 👀 I’m interested in developing games
+- 🌱 I’m currently learning coding using python
 - 💞️ I’m looking to collaborate on (nothing yet)
 - 📫 How to reach me ...
 
