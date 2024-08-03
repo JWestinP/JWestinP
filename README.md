@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JWestinP
 - 👀 I’m interested in developing software and web development
-- 🌱 I’m currently learning coding using python, java and using the django framework
-- 💞️ I’m looking to collaborate on (nothing yet)
-- 📫 How to reach me ...
+- 🌱 I’m currently learning coding using C# and as well as using the Entity framework
+
 
 <!---
 JWestinP/JWestinP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
